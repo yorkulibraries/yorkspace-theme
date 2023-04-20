@@ -4,8 +4,17 @@
   --ds-header-logo-height: 40px;
   --ds-banner-text-background: rgba(0, 0, 0, 0.45);
   --ds-banner-background-gradient-width: 300px;
-  --ds-home-news-link-color: #{$green};
-  --ds-home-news-link-hover-color: #{darken($green, 15%)};
-  --ds-header-navbar-border-bottom-color: #{$green};
-}
+  --ds-home-news-link-color: #{$link-color};
+  --ds-home-news-link-hover-color: #{$link-hover-color};
+  --ds-header-navbar-border-bottom-color: #{$white};
+  --ds-navbar-link-color: #{$link-color};
+  --ds-navbar-link-color-hover: #{$link-hover-color};
 
+
+  --ds-navbar-link-color: #{$link-color};
+  --ds-navbar-link-color-hover: #{$link-hover-color};
+
+  --ds-breadcrumb-bg: #{$dark} !important;
+  --ds-breadcrumb-link-color: #{$white};
+  --ds-breadcrumb-link-active-color: #{$gray-300};
+}
