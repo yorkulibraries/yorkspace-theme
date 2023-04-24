@@ -1,0 +1,53 @@
+{
+  "admin.registries.metadata.description": "Le registre de métadonnées présente une liste à jour de tous les champs de métadonnées disponibles dans le dépôt. Ces champs peuvent être répartis entre plusieurs schémas. Le schéma Dublin Core qualifié est toutefois requis dans YorkSpace.",
+
+  "footer.link.dspace": "Logiciel YorkSpace",
+
+  "forgot-email.form.info": "Créer un compte pour vous abonner à des collections afin de recevoir des mises à jour via courrier électronique ainsi que pour déposer de nouveaux Items dans YorkSpace.",
+
+  "home.top-level-communities.head": "Communautés dans YorkSpace",
+
+  "info.feedback.info": "Merci de nous faire part de votre avis sur le système YorkSpace. Vos commentaires sont appréciés !",
+
+  "login.form.header": "Se connecter à YorkSpace",
+
+  "logout.form.header": "Se déconnecter de YorkSpace",
+
+  "menu.section.browse_global": "Tout YorkSpace",
+
+  "mydspace.breadcrumbs": "Mon compte YorkSpace",
+
+  "mydspace.search-form.placeholder": "Rechercher dans mon compte YorkSpace...",
+
+  "mydspace.title": "Mon compte YorkSpace",
+
+  "nav.mydspace": "Mon compte YorkSpace",
+
+  "register-page.registration.info": "Créer un compte pour pouvoir vous abonner aux collections et recevoir les nouveautés via courrier électronique ainsi que déposer de nouveaux Items dans YorkSpace.",
+
+  "repository.title.prefix": "YorkSpace :: ",
+
+  "repository.title.prefixDSpace": "YorkSpace :: ",
+
+  "search.form.search_dspace": "Recherche dans YorkSpace",
+
+  "search.form.scope.all": "Tout le dépôt YorkSpace",
+
+  "submission.import-external.page.hint": "Entrer votre recherche ci-dessus pour rechercher des éléments du web à importer dans YorkSpace",
+
+  "submission.import-external.back-to-my-dspace": "Retour à mon compte YorkSpace",
+
+  "title": "YorkSpace",
+
+  "yorkspace.footer.copyright": "Tous les éléments du dépôt institutionnel de YorkSpace sont protégés par le droit d'auteur, avec tous les droits réservés, sauf indication contraire explicite.",
+
+  "yorkspace.home.news": "YorkSpace est le dépôt institutionnel de l'Université York. C'est une plateforme qui permet aux membres de la communauté de York d'organiser et de préserver leur recherche en ligne dans un contexte institutionnel. Il met en valeur les travaux universitaires de la communauté de l'Université York grâce à l'utilisation d'une plateforme logicielle basée sur des normes spéciales qui recueille des statistiques d'utilisation et offre une visibilité exceptionnelle sur le web.",
+  
+  "yorkspace.home.welcome": "Bienvenue sur YorkSpace",
+
+  "yorkspace.home.learn-about-yorkspace-visit": "Pour en savoir plus sur YorkSpace, visitez le",
+
+  "yorkspace.home.yorkspace-resource-site": "site de ressources de YorkSpace",
+
+  "yorkspace.home.yorkspace-resource-site-link": "https://researchguides.library.yorku.ca/yorkspace",
+}
