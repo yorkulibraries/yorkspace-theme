@@ -23,5 +23,5 @@
 }
 
 .breadcrumb-item::before {
-  color: #{$white};
+  color: #{$white} !important;
 }
