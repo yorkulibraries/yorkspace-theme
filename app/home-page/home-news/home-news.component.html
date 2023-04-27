@@ -7,10 +7,13 @@
           <p class="lead">{{ 'yorkspace.home.news' | translate}}</p>
           <p class="lead">{{ 'yorkspace.home.learn-about-yorkspace-visit' | translate}} <a href="{{ 'yorkspace.home.yorkspace-resource-site-link' | translate}}">{{ 'yorkspace.home.yorkspace-resource-site' | translate}}</a></p>
         </div>
-
       </div>
     </div>
   </div>
-  
+  <picture class="background-image">
+    <source type="image/webp" srcset="assets/yorkspace/images/banner.webp 2000w, assets/yorkspace/images/banner-half.webp 1200w, assets/yorkspace/images/banner-tall.webp 768w">
+    <source type="image/jpg" srcset="assets/yorkspace/images/banner.jpg 2000w, assets/yorkspace/images/banner-half.jpg 1200w, assets/yorkspace/images/banner-tall.jpg 768w">
+    <img alt="" [src]="'assets/yorkspace/images/banner.jpg'"/><!-- without the []="''" Firefox downloads both the fallback and the resolved image -->
+  </picture>
 </div>
 
