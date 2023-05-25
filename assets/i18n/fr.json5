@@ -9,6 +9,8 @@
 
   "info.feedback.info": "Merci de nous faire part de votre avis sur le système YorkSpace. Vos commentaires sont appréciés !",
 
+  "login.form.orcid": "Connectez-vous avec ORCID",
+
   "login.form.header": "Se connecter à YorkSpace",
 
   "logout.form.header": "Se déconnecter de YorkSpace",
