@@ -43,15 +43,17 @@
 
   "yorkspace.footer.copyright": "Tous les éléments du dépôt institutionnel de YorkSpace sont protégés par le droit d'auteur, avec tous les droits réservés, sauf indication contraire explicite.",
 
-  "yorkspace.home.news": "YorkSpace est le dépôt institutionnel de l'Université York. C'est une plateforme qui permet aux membres de la communauté de York d'organiser et de préserver leur recherche en ligne dans un contexte institutionnel. Il met en valeur les travaux universitaires de la communauté de l'Université York grâce à l'utilisation d'une plateforme logicielle basée sur des normes spéciales qui recueille des statistiques d'utilisation et offre une visibilité exceptionnelle sur le web.",
+  "yorkspace.home.description.part1": "YorkSpace est le Dépôt institutionnel de l'Université York. Il soutient la",
+
+  "yorkspace.home.description.part2": "en offrant aux membres de la communauté de York un espace pour préserver leurs recherches en ligne dans un contexte institutionnel.",
   
-  "yorkspace.home.welcome": "Bienvenue sur YorkSpace",
+  "yorkspace.home.yorku-senate-policy-open-access-url": "https://www.library.yorku.ca/web/research-learn/research/oapublishing/york-university-senate-policy-on-open-access/",
 
-  "yorkspace.home.learn-about-yorkspace-visit": "Pour en savoir plus sur YorkSpace, visitez le",
+  "yorkspace.home.yorku-senate-policy-open-access": "Politique du Sénat de l'Université York sur l'accès libre",
 
-  "yorkspace.home.yorkspace-resource-site": "site de ressources de YorkSpace",
+  "yorkspace.home.photo-credit.photo-by": "Photo by",
 
-  "yorkspace.home.yorkspace-resource-site-link": "https://researchguides.library.yorku.ca/yorkspace",
+  "yorkspace.home.photo-credit.on": "on",
 
   "menu.section.about_yorkspace": "À propos de YorkSpace",
 }

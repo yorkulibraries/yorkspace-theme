@@ -16,7 +16,7 @@
       height: 100%;
       object-fit: cover;
       object-position: top;
-      opacity: 0.5;
+      opacity: 1;
     }
 
     .container {
@@ -52,7 +52,7 @@
         color: inherit;
       }
 
-      opacity: 0.3;
+      opacity: 0.5;
       position: absolute;
       right: var(--bs-spacer);
       bottom: 0;
@@ -61,6 +61,11 @@
 
   .jumbotron {
     background-color: transparent;
+  }
+
+  .lead {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
   }
 
   a {

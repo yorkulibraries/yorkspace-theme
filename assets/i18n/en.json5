@@ -39,15 +39,17 @@
 
   "yorkspace.footer.copyright": "All items in the YorkSpace institutional repository are protected by copyright, with all rights reserved except where explicitly noted.",
 
-  "yorkspace.home.news": "YorkSpace is York University's Institutional Repository. It is a platform that enables York community members to organize and preserve their research online in an institutional context. It showcases the scholarship of the York University community through the use of a special standards-based software platform that collects usage statistics and provides exceptional visibility on the web.",
+  "yorkspace.home.description.part1": "YorkSpace is York University's Institutional Repository. It supports",
+
+  "yorkspace.home.description.part2": "by providing York community members with a place to preserve their research online in an institutional context.",
   
-  "yorkspace.home.welcome": "Welcome to YorkSpace",
+  "yorkspace.home.yorku-senate-policy-open-access-url": "https://www.library.yorku.ca/web/research-learn/research/oapublishing/york-university-senate-policy-on-open-access/",
 
-  "yorkspace.home.learn-about-yorkspace-visit": "To learn more about YorkSpace, visit the",
+  "yorkspace.home.yorku-senate-policy-open-access": "York University's Senate Policy on Open Access",
 
-  "yorkspace.home.yorkspace-resource-site": "YorkSpace Resource Site",
+  "yorkspace.home.photo-credit.photo-by": "Photo by",
 
-  "yorkspace.home.yorkspace-resource-site-link": "https://researchguides.library.yorku.ca/yorkspace",
+  "yorkspace.home.photo-credit.on": "on",
 
   "menu.section.about_yorkspace": "About YorkSpace",
 }

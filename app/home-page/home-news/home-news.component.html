@@ -3,17 +3,16 @@
     <div class="jumbotron jumbotron-fluid">
       <div class="d-flex flex-wrap">
         <div>
-          <h1 class="display-3">{{ 'yorkspace.home.welcome' | translate}}</h1>
-          <p class="lead">{{ 'yorkspace.home.news' | translate}}</p>
-          <p class="lead">{{ 'yorkspace.home.learn-about-yorkspace-visit' | translate}} <a href="{{ 'yorkspace.home.yorkspace-resource-site-link' | translate}}">{{ 'yorkspace.home.yorkspace-resource-site' | translate}}</a></p>
+          <p class="lead">{{ 'yorkspace.home.description.part1' | translate}} <a href="{{ 'yorkspace.home.yorku-senate-policy-open-access-url' | translate }}">{{ 'yorkspace.home.yorku-senate-policy-open-access' | translate}}</a> {{ 'yorkspace.home.description.part2' | translate}} </p>
         </div>
       </div>
     </div>
   </div>
   <picture class="background-image">
-    <source type="image/webp" srcset="assets/yorkspace/images/banner.webp 2000w, assets/yorkspace/images/banner-half.webp 1200w, assets/yorkspace/images/banner-tall.webp 768w">
-    <source type="image/jpg" srcset="assets/yorkspace/images/banner.jpg 2000w, assets/yorkspace/images/banner-half.jpg 1200w, assets/yorkspace/images/banner-tall.jpg 768w">
-    <img alt="" [src]="'assets/yorkspace/images/banner.jpg'"/><!-- without the []="''" Firefox downloads both the fallback and the resolved image -->
+    <source type="image/webp" srcset="assets/yorkspace/images/nasa-Q1p7bh3SHj8-unsplash-banner.webp 2000w, assets/yorkspace/images/nasa-Q1p7bh3SHj8-unsplash-banner-half.webp 1200w, assets/yorkspace/images/nasa-Q1p7bh3SHj8-unsplash-banner-tall.webp 768w">
+    <source type="image/jpg" srcset="assets/yorkspace/images/nasa-Q1p7bh3SHj8-unsplash-banner.jpg 2000w, assets/yorkspace/images/nasa-Q1p7bh3SHj8-unsplash-banner-half.jpg 1200w, assets/yorkspace/images/nasa-Q1p7bh3SHj8-unsplash-banner-tall.jpg 768w">
+    <img alt="" [src]="'assets/yorkspace/images/nasa-Q1p7bh3SHj8-unsplash-banner.jpg'"/><!-- without the []="''" Firefox downloads both the fallback and the resolved image -->
   </picture>
+  <small class="credits">{{ 'yorkspace.home.photo-credit.photo-by' | translate }} <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> {{ 'yorkspace.home.photo-credit.on' | translate }} <a href="https://unsplash.com/photos/Q1p7bh3SHj8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
 </div>
 
