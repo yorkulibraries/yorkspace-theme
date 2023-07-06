@@ -25,3 +25,7 @@
 .breadcrumb-item::before {
   color: #{$white} !important;
 }
+
+header.header {
+  z-index: 2;
+}
