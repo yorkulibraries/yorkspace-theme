@@ -57,5 +57,14 @@
 
   "yorkspace.home.photo-credit.on": "on",
 
-  "menu.section.about_yorkspace": "À propos de YorkSpace",
+  "menu.section.about": "About",
+
+  "menu.section.about_yorkspace": "About YorkSpace",
+
+  "menu.section.yorkspace_procedures": "YorkSpace Procedures",
+
+  "menu.section.yorkspace_licence": "YorkSpace Licence",
+
+  "menu.section.yorkspace_help_resources": "YorkSpace Help Resources",
+  
 }

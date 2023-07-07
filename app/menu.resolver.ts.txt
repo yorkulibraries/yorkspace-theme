@@ -100,7 +100,7 @@ export class MenuResolver implements Resolve<boolean> {
         visible: true,
         model: {
           type: MenuItemType.TEXT,
-          text: `menu.section.about_yorkspace`,
+          text: `menu.section.about`,
         } as TextMenuItemModel
       },
       {
@@ -111,9 +111,9 @@ export class MenuResolver implements Resolve<boolean> {
         model: {
           type: MenuItemType.EXTERNAL,
           text: `menu.section.about_yorkspace`,
-          href: `https://www.library.yorku.ca/web/yorkspace/`,
+          href: `https://www.library.yorku.ca/web/collections/yorkspace/`,
           disabled: false,
-          link: `https://www.library.yorku.ca/web/yorkspace/`
+          link: `https://www.library.yorku.ca/web/collections/yorkspace/`
         } as LinkMenuItemModel
       },
       {
@@ -123,10 +123,38 @@ export class MenuResolver implements Resolve<boolean> {
         visible: true,
         model: {
           type: MenuItemType.EXTERNAL,
-          text: `menu.section.about_yorkspace`,
-          href: `https://www.library.yorku.ca/web/yorkspace/`,
+          text: `menu.section.yorkspace_procedures`,
+          href: `https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-procedures/`,
           disabled: false,
-          link: `https://www.library.yorku.ca/web/yorkspace/`
+          link: `https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-procedures/`
+        } as LinkMenuItemModel
+      },
+      ,
+      {
+        id: `about_yorkspace_link_3`,
+        parentID: 'about_yorkspace',
+        active: false,
+        visible: true,
+        model: {
+          type: MenuItemType.EXTERNAL,
+          text: `menu.section.yorkspace_licence`,
+          href: `https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-licence/`,
+          disabled: false,
+          link: `https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-licence/`
+        } as LinkMenuItemModel
+      },
+      ,
+      {
+        id: `about_yorkspace_link_4`,
+        parentID: 'about_yorkspace',
+        active: false,
+        visible: true,
+        model: {
+          type: MenuItemType.EXTERNAL,
+          text: `menu.section.yorkspace_help_resources`,
+          href: `https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-help-resources/`,
+          disabled: false,
+          link: `https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-help-resources/`
         } as LinkMenuItemModel
       },
       /* Communities & Collections tree */
