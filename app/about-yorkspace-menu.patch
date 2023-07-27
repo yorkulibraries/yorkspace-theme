@@ -50,9 +50,9 @@ index cad6a6e..1108f3d 100644
 +        model: {
 +          type: MenuItemType.EXTERNAL,
 +          text: `menu.section.yorkspace_licence`,
-+          href: `https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-licence/`,
++          href: `https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-license/`,
 +          disabled: false,
-+          link: `https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-licence/`
++          link: `https://www.library.yorku.ca/web/collections/yorkspace/yorkspace-license/`
 +        } as LinkMenuItemModel
 +      },
 +      {
